@@ -1,0 +1,6 @@
+{
+  "name": "OSMOGEN Intelligence",
+  "description": "Pressure Retarded Osmosis (PRO) feasibility lab, deterministic energy balance engine, scenario comparison, India-first site screening, and guarded AI engineering assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
